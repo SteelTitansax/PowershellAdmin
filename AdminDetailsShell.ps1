@@ -1,0 +1,1 @@
+﻿Get-AdminPowerAppsUserDetails -OutputFilePath 'C:\Users\mportero\Documents\adminUserDetails.txt' -UserPrincipalName 'mportero@seidorqc.com'
